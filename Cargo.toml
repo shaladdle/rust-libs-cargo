@@ -1,0 +1,15 @@
+[package]
+
+name = "libs"
+version = "0.0.1"
+authors = ["Bananaman <banana@man.com>"]
+
+[lib]
+
+name = "lib1"
+path = "src/lib1/mod.rs"
+
+[lib]
+
+name = "lib2"
+path = "src/lib2/mod.rs"
